@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.qluojieq.easyupdate.MainActivity">
+
+
+        <Button
+            android:layout_marginTop="10dp"
+            android:id="@+id/test_btn1"
+            android:layout_width="100dp"
+            android:layout_height="45dp" />
+
+        <Button
+            android:layout_marginTop="10dp"
+
+            android:id="@+id/test_btn2"
+            android:layout_width="100dp"
+            android:layout_height="45dp" />
+        <Button
+            android:layout_marginTop="10dp"
+
+            android:id="@+id/test_btn3"
+            android:layout_width="100dp"
+            android:layout_height="45dp" />
+        <Button
+            android:layout_marginTop="10dp"
+
+            android:id="@+id/test_btn4"
+            android:layout_width="100dp"
+            android:layout_height="45dp" />
+        <Button
+            android:layout_marginTop="10dp"
+
+            android:id="@+id/test_btn5"
+            android:layout_width="100dp"
+            android:layout_height="45dp" />
+        <Button
+            android:layout_marginTop="10dp"
+
+            android:id="@+id/test_btn6"
+            android:layout_width="100dp"
+            android:layout_height="45dp" />
+        <Button
+            android:layout_marginTop="10dp"
+
+            android:id="@+id/test_btn7"
+            android:layout_width="100dp"
+            android:layout_height="45dp" />
+
+</LinearLayout>
